@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Odoo
+*.log
+*.pid
+.odoo/
+sessions/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
