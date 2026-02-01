@@ -25,7 +25,8 @@ The purpose is learning, documentation, and future reference, including common m
 
 ### 1️⃣ Install Python
 - Install python-3.7.9-amd64.exe
-- Check: Add Python to PATH
+- Check: 
+  Add Python to PATH
 - Manually add to Environment Variables:
   C:\Users\<user>\AppData\Local\Programs\Python\Python37
   C:\Users\<user>\AppData\Local\Programs\Python\Python37\Scripts
