@@ -11,3 +11,20 @@ Master installers used for setup:
 - python-3.7.9-amd64.exe
 - wkhtmltox-0.12.6-1.msvc2015-win64.exe
 - Odoo 14 source code (from GitHub)
+
+
+Software & Installer Used
+
+| Software        | Version                 |
+|-----------------|------------------------|
+| Python          | 3.7.9                  |
+| PostgreSQL      | 13.7                   |
+| Odoo            | 14.0 (from GitHub source) |
+| Git             | 2.35.1                 |
+| Node.js         | v16.16.0               |
+| Java            | JDK 8u281              |
+| wkhtmltopdf     | 0.12.6                 |
+| PyCharm Community | 2022.1.3             |
+| Apache Tomcat   | 10.0.8                 |
+| DBeaver         | 22.3.5                 |
+| psqlODBC        | x64                     |
