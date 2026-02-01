@@ -1,0 +1,13 @@
+Master installers used for setup:
+- apache-tomcat-10.0.8.exe
+- dbeaver-ce-22.3.5-x86_64-setup.exe
+- Git-2.35.1.2-64-bit.exe
+- JavaSetup8u281.exe
+- node-v16.16.0-x64.msi
+- odoo_config.conf
+- postgresql-13.7-1-windows-x64.exe
+- psqlodbc_x64.msi
+- pycharm-community-2022.1.3.exe
+- python-3.7.9-amd64.exe
+- wkhtmltox-0.12.6-1.msvc2015-win64.exe
+- Odoo 14 source code (from GitHub)
